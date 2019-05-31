@@ -1,6 +1,6 @@
 # global settings
 title: "Phytomech Industries"
-description: "let's change the way we grow plants"
+description: "changing the way we grow plants"
 permalink: "/stories/:title"
 url: https://phytomech.com
 relative_permalinks: false
